@@ -1,0 +1,24 @@
+article {
+  border: solid 1px transparent;
+  background-color: antiquewhite;
+  border-radius: 40px;
+  display: flex;
+  justify-content: unset;
+}
+
+img {
+  margin-right: -11px;
+  padding: 42px;
+}
+
+div {
+  padding-top: 50px;
+  color: rgb(109, 45, 2);
+}
+@media screen and (max-width:880px) {
+  article {
+   flex-direction: auto;
+    flex-direction: column-reverse;
+   
+  }
+}

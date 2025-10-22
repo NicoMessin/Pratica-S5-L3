@@ -24,3 +24,8 @@ display: flex;
 justify-content: center;
     align-items: center;}
 b {    margin-left: 20px;}
+
+@media screen and (max-width:682px) {
+    main {flex-direction: column;}
+   
+}
