@@ -1,0 +1,26 @@
+main {border: solid 1px transparent;
+border-radius: 152px;
+width: 80%;
+height: 220px;
+display: flex;
+justify-content: space-evenly;
+    align-items: center;
+background-color: rgb(248, 252, 172);}
+img {width: 84px;
+}
+
+button {    height: 60px;
+    border-radius: 27px;
+    width: 125px;
+background-color: rgb(237, 169, 11);
+border: transparent;
+font-size: 19px;}
+   
+    .grande {height: 106px;
+    border-radius: 45px;
+    width: 241px;
+font-size: 40px;
+display: flex;
+justify-content: center;
+    align-items: center;}
+b {    margin-left: 20px;}
